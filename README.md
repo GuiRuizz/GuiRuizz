@@ -1,8 +1,15 @@
-### Oieeeee, tudo bem? Seja bem vindo ao meu Read Me, espero que possam ver um pouco da minha trajetória em programação! 
+### Hello everyone! My name is Guilherme and I'm currently Mobile Developer
 
-- 🌱 Estou aprendendo SQL, TypeScript, React Native, Python e MUUUUUUUITO MAIS!
-- 🐱‍👤 Sempre gosto de aplicar um pouco do meu conhecimento, no cotidiano, então não deixe de conferir o meu GIT!
-- Agora você pode ver um pouco do aproveitamento que eu estou tendo com o estudo e a aplicação real do meu conhecimento:
+- 📱 I'm a passionate Mobile Developer Engineer with a strong focus on building high-quality, user-friendly mobile applications using Flutter.
+Skills
+ * Flutter & Dart: Expertise in building cross-platform applications for iOS and Android using Flutter and Dart.
+ * gRPC: Great knowledge: Experienced in designing and implementing gRPC services for efficient inter-service communication.
+   * [Programming Languages]: Java, Kotlin, Dart, React Native and Python
+   * [UI/UX]: Material Design, Cupertino Widgets, State Management (Provider, BLoC)
+   * [Testing]: Unit Testing, Widget Testing, Integration Testing
+   * [Version Control]: Git, GitHub
+   * [Agile Methodologies]: Scrum, Kanban
+   * [Studying Programming Languages]: Dart, Go, MySQL and Angular.
 
 <div align="center"></br>
 
