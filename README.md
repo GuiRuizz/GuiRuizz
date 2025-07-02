@@ -1,15 +1,16 @@
 ### Hello everyone! My name is Guilherme and I'm currently Mobile Developer
 
 - 📱 I'm a passionate Mobile Developer Engineer with a strong focus on building high-quality, user-friendly mobile applications using Flutter.
-Skills
- * Flutter & Dart: Expertise in building cross-platform applications for iOS and Android using Flutter and Dart.
- * gRPC: Great knowledge: Experienced in designing and implementing gRPC services for efficient inter-service communication.
-   * [Programming Languages]: Java, Kotlin, Dart, React Native and Python
-   * [UI/UX]: Material Design, Cupertino Widgets, State Management (Provider, BLoC)
-   * [Testing]: Unit Testing, Widget Testing, Integration Testing
-   * [Version Control]: Git, GitHub
-   * [Agile Methodologies]: Scrum, Kanban
-   * [Studying Programming Languages]: Dart, Go, MySQL and Angular.
+
+**Skills**
+- *Flutter & Dart:* Expertise in building cross-platform applications for iOS and Android using Flutter and Dart.
+- *gRPC:* Great knowledge: Experienced in designing and implementing gRPC services for efficient inter-service communication.
+- *[Programming Languages]:* Java, Kotlin, Dart, React Native and Python  
+- *[UI/UX]:* Material Design, Cupertino Widgets, State Management (Provider, BLoC)  
+- *[Testing]:* Unit Testing, Widget Testing, Integration Testing  
+- *[Version Control]:* Git, GitHub  
+- *[Agile Methodologies]:* Scrum, Kanban  
+- *[Studying Programming Languages]:* Dart, Go, MySQL and Angular.
 
 <div align="center"></br>
 
@@ -19,15 +20,13 @@ Skills
 
 </div>
 
-
-
-
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Keycloak" height="30" width="40" src="https://www.keycloak.org/resources/images/keycloak_icon_256px.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4">
 </div>
 
 <div align="center"> </br>
@@ -37,4 +36,3 @@ Skills
   <a href="https://www.linkedin.com/in/guilhermeenrique/gm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
