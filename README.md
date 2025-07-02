@@ -23,7 +23,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Keycloak" height="30" width="40" src="https://www.keycloak.org/resources/images/keycloak_icon_256px.svg">
+  <img align="center" alt="Keycloak" height="30" width="40" src="https://images.app.goo.gl/U6qSFvFeahRdimG47">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="Supabase" height="30" width="40" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4">
