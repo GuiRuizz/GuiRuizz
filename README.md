@@ -39,3 +39,6 @@
   <a href="https://www.linkedin.com/in/guilhermeenrique/gm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![GitHub Snake](https://raw.githubusercontent.com/<seu-usuario>/guilhermesassi/output/github-snake.svg)
+
