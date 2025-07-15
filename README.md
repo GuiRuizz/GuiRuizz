@@ -40,5 +40,8 @@
   
 </div>
 
+![snake svg](https://github.com/GuiRuizz/GuiRuizz/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
