@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
   workflow_dispatch:     # permite rodar manualmente
 
+permissions:
+  contents: write  # Necessário para permitir push para o repositório
+
 jobs:
   generate:
     runs-on: ubuntu-latest
