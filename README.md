@@ -1,42 +1,115 @@
-### Hello everyone! My name is Guilherme and I'm currently Mobile Developer
+<h1 align="center">👋 Hello everyone! My name is Guilherme </h1>
 
-- 📱 I'm a passionate Mobile Developer Engineer with a strong focus on building high-quality, user-friendly mobile applications using Flutter.
+<h3 align="center">🚀 Junior Mobile Engineer | 2+ years coding: Flutter | SwifitUI | Kotlin | PHP </h3>
 
-**Skills**
-- *Flutter & Dart:* Proficient in developing high-performance, responsive, and maintainable cross-platform mobile apps with Flutter.
-- *[State Mangement]:* Experienced with Provider, Riverpod, and other Flutter state management solutions.
-- *[Backend Integration]* Backend Integration: Knowledgeable in RESTful APIs and gRPC for efficient backend communication.
-- *[Single Sign-On]:* Experienced in implementing SSO with Keycloak on Flutter apps and Flutter Web, enabling secure and seamless authentication.
-- *[Programming Languages]:* Java, Kotlin, Dart, Go, Swifit, PHP. 
-- *[UI/UX]:* Material Design, State Management (Provider, Riverpod)  
-- *[Version Control]:* Git & GitHub for source code management.
-- *[Studying Programming Languages]:* Continuously expanding expertise in Dart, Go, MySQL, and Swift
+## 💬 **About Me**
 
-<div align="center-left"></br>
+I’m Guilherme Sassi, a Software Engineer passionate about building scalable and user-centered applications.
+I specialize in mobile and web development using Flutter/Dart, SwiftUI, Kotlin, Laravel, and Next.js, applying Clean Architecture and Domain-Driven Design (DDD) to create maintainable, high-performance software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRuizz&show_icons=true&theme=radical&locale=pt-br)
+I enjoy transforming complex ideas into elegant, practical solutions — from mobile apps and B2C platforms to complete admin systems.
+Currently, I’m part of We Are Dvelopers, contributing to innovative digital products showcased on Shark Tank Brasil.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRuizz&layout=compact&show_icons=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+```dart
+const guilherme = {
+  "name": "Guilherme Sassi",
+  "role": "Software Engineer @ We Are Dvelopers | Mobile Developer",
+  "experience": "2 years",
+  "location": "São José dos Campos, São Paulo, Brazil",
+  "contact": {
+    "email": "guigui.sassi@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/guilhermeenrique"
+  },
+  "skills": {
+    "mobile": ["Flutter/Dart", "SwiftUI", "Kotlin"],
+    "web": ["Laravel/PHP", "Next.js/TypeScript", "Flutter Web"],
+    "architecture": [
+      "Clean Architecture",
+      "Domain-Driven Design (DDD)",
+      "MVC",
+      "MVVM",
+      "SOLID"
+    ]
+  },
+  "languages": {
+    "Portuguese": "Native or Bilingual",
+    "English": "Full Professional",
+    "German": "Limited Working"
+  },
+  "summary":
+      "I'm a mobile and web developer experienced in Flutter, SwiftUI, Kotlin, Laravel, and Next.js, building scalable applications with clean, maintainable code. I apply Clean Architecture, DDD, and SOLID principles to deliver robust software solutions.",
+  "education": [
+    {
+      "institution": "Etep - Centro Universitário",
+      "degree": "B.Eng. in Software Engineering",
+      "period": "2025 – 2030"
+    },
+    {
+      "institution": "Fatec São José dos Campos",
+      "degree": "Technologist in Aeronautical Structures Projects",
+      "period": "2019 – 2024"
+    },
+  ],
+  "mindset":
+      "Turning complex ideas into practical, scalable, and user-focused solutions."
+};
+```
+---
+## 📊 **Statics for Nerds**
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiRuizz&show_icons=true&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiRuizz&show_icons=true&theme=radical&locale=pt-br"/>
 </div>
 
-<div style="display: inline_block" align="center-left"><br>
-  <img align="center-left" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center-left" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center-left" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center-left" alt="Keycloak" height="30" width="40" src="https://avatars.githubusercontent.com/u/4921466?s=280&v=4">
-  <img align="center-left" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center-left" alt="Firebase" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center-left" alt="Supabase" height="30" width="40" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4">
-</div>
+---
+## 🛠️ **Stacks**
 
-<div align="center-left"> </br>
+### **Mobile Development**
+<div align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" /> </div>
+
+### **Web Development**
+<div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,js,html,css" /> </div>
+
+### **Backend & APIs**
+<div align="left"> <img src="https://skillicons.dev/icons?i=go,postman,nodejs" /> </div>
+
+### **Databases**
+<div align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" /> </div>
+
+### **Cloud & DevOps**
+<div align="left"> <img src="https://skillicons.dev/icons?i=docker,github,git,vercel" /> </div>
+
+### **Tools & Practices**
+<div align="left"> <img src="https://skillicons.dev/icons?i=vscode,figma,linux" /> </div>
+
+
+**Methodologies & Principles:** Clean Architecture • DDD • SOLID • MVC • MVVM • RESTful APIs • CI/CD • Agile • UX/UI Design
+
+---
+## 📫 **Contact Me**
+
+<div align="center"> </br>
 
   <a href="https://instagram.com/gui.ruizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "guilhermesassicontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermeenrique/gm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+---
+
+## 🌟 **Impact & Proven Results**
+
+- ✅ **45% faster API responses** achieved through **gRPC integration** and optimized architecture at *IEZ Telecom*  
+- ✅ **Seamless user experience** delivered across **B2C platforms** showcased on *Shark Tank Brasil*  
+- ✅ **Enhanced scalability** by applying **Clean Architecture** and **Domain-Driven Design (DDD)** principles  
+- ✅ **Improved security** with **centralized authentication** using *Keycloak (SSO + JWT)*  
+- ✅ **Reduced manual workload** through **automated backend testing** in *GoLang* and **CI/CD pipelines**  
+- ✅ **Developed reusable and responsive UI components** using *Laravel Blade* and *Flutter*, ensuring cross-platform performance  
+
+---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GuiRuizz/GuiRuizz/blob/output/github-contribution-grid-snake-dark.svg" />
