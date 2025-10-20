@@ -66,7 +66,7 @@ const guilherme = {
 ## 🛠️ **Stacks**
 
 ### **Mobile Development**
-<div align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" /> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart,swift,kotlin" /> </div>
 
 ### **Web Development**
 <div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,js,html,css" /> </div>
