@@ -69,7 +69,7 @@ const guilherme = {
 <div align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </div>
 
 ### **Web Development**
-<div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts" /> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs" /> </div>
 
 ### **Backend & APIs**
 <div align="left"> <img src="https://skillicons.dev/icons?i=go,postman,nodejs" /> </div>
