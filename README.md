@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello everyone! My name is Guilherme </h1>
 
-<h3 align="center">🚀 Junior Mobile Engineer | 2+ years coding: Flutter | SwifitUI | Kotlin | PHP </h3>
+<h3 align="center">🚀 Junior Mobile Engineer | 2+ years coding: Flutter | React Native | PHP </h3>
 
 ## 💬 **About Me**
 
