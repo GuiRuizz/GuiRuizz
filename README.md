@@ -69,7 +69,7 @@ const guilherme = {
 <div align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </div>
 
 ### **Web Development**
-<div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,js,html,css" /> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts" /> </div>
 
 ### **Backend & APIs**
 <div align="left"> <img src="https://skillicons.dev/icons?i=go,postman,nodejs" /> </div>
@@ -78,7 +78,7 @@ const guilherme = {
 <div align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" /> </div>
 
 ### **Cloud & DevOps**
-<div align="left"> <img src="https://skillicons.dev/icons?i=docker,github,git,vercel" /> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=docker,github,git" /> </div>
 
 ### **Tools & Practices**
 <div align="left"> <img src="https://skillicons.dev/icons?i=vscode,figma,linux" /> </div>
