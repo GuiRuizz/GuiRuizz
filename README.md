@@ -5,7 +5,7 @@
 ## 💬 **About Me**
 
 I’m Guilherme Sassi, a Software Engineer passionate about building scalable and user-centered applications.
-I specialize in mobile and web development using Flutter/Dart, SwiftUI, Kotlin, Laravel, and Next.js, applying Clean Architecture and Domain-Driven Design (DDD) to create maintainable, high-performance software.
+I specialize in mobile and web development using Flutter/Dart, React Native, Laravel, and Next.js, applying Clean Architecture and Domain-Driven Design (DDD) to create maintainable, high-performance software.
 
 I enjoy transforming complex ideas into elegant, practical solutions — from mobile apps and B2C platforms to complete admin systems.
 Currently, I’m part of We Are Dvelopers, contributing to innovative digital products showcased on Shark Tank Brasil.
@@ -21,7 +21,7 @@ const guilherme = {
     "linkedin": "https://www.linkedin.com/in/guilhermeenrique"
   },
   "skills": {
-    "mobile": ["Flutter/Dart", "SwiftUI", "Kotlin"],
+    "mobile": ["Dart", "Flutter", "React Native"],
     "web": ["Laravel/PHP", "Next.js/TypeScript", "Flutter Web"],
     "architecture": [
       "Clean Architecture",
@@ -66,7 +66,7 @@ const guilherme = {
 ## 🛠️ **Stacks**
 
 ### **Mobile Development**
-<div align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart,swift,kotlin" /> </div>
+<div align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </div>
 
 ### **Web Development**
 <div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,ts,js,html,css" /> </div>
