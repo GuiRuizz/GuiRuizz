@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello everyone! My name is Guilherme </h1>
+<h1 align="center">👋 Hello everyone! My name is Guilherme Sassi! </h1>
 
 <h3 align="center">🚀 Junior Mobile Engineer | 2+ years coding: Flutter | Laravel | PHP | GoLang </h3>
 
