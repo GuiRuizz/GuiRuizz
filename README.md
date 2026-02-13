@@ -1,59 +1,16 @@
-<h1 align="center">👋 Hello everyone! My name is Guilherme Sassi! </h1>
+<h1 align="center">👋 Hello everyone! </h1>
 
-<h3 align="center">🚀 Junior Mobile Engineer | 2+ years coding: Flutter | Laravel | PHP | GoLang </h3>
+<h3 align="center">🚀 Software Engineer | 2+ years coding: Flutter | Laravel | PHP | GoLang </h3>
 
 ## 💬 **About Me**
 
 I’m Guilherme Sassi, a Software Engineer passionate about building scalable and user-centered applications.
 I specialize in mobile and web development using Flutter, Dart, Laravel, and Next.js, applying Clean Architecture and Domain-Driven Design (DDD) to create maintainable, high-performance software.
 
-I enjoy transforming complex ideas into elegant, practical solutions — from mobile apps and B2C platforms to complete admin systems.
-Currently, I’m part of We Are Dvelopers, contributing to innovative digital products showcased on Shark Tank Brasil.
+💡 I enjoy solving complex problems, designing efficient systems, and continuously improving software quality through best practices, testing, and automation.
 
-```dart
-const guilherme = {
-  "name": "Guilherme Sassi",
-  "role": "Software Engineer @ We Are Dvelopers | Mobile Developer",
-  "experience": "2 years",
-  "location": "São José dos Campos, São Paulo, Brazil",
-  "contact": {
-    "email": "guigui.sassi@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/guilhermeenrique"
-  },
-  "skills": {
-    "mobile": ["Dart", "Flutter", "React Native"],
-    "web": ["Laravel/PHP", "Next.js/TypeScript", "Flutter Web"],
-    "architecture": [
-      "Clean Architecture",
-      "Domain-Driven Design (DDD)",
-      "MVC",
-      "MVVM",
-      "SOLID"
-    ]
-  },
-  "languages": {
-    "Portuguese": "Native or Bilingual",
-    "English": "Full Professional",
-    "German": "Limited Working"
-  },
-  "summary":
-      "I'm a mobile and web developer experienced in Flutter, SwiftUI, Kotlin, Laravel, and Next.js, building scalable applications with clean, maintainable code. I apply Clean Architecture, DDD, and SOLID principles to deliver robust software solutions.",
-  "education": [
-    {
-      "institution": "Etep - Centro Universitário",
-      "degree": "B.Eng. in Software Engineering",
-      "period": "2025 – 2030"
-    },
-    {
-      "institution": "Fatec São José dos Campos",
-      "degree": "Technologist in Aeronautical Structures Projects",
-      "period": "2019 – 2024"
-    },
-  ],
-  "mindset":
-      "Turning complex ideas into practical, scalable, and user-focused solutions."
-};
-```
+📈 Always learning, always building — open to exciting opportunities in mobile and backend development.
+
 ---
 ## 📊 **Statics for Nerds**
 
