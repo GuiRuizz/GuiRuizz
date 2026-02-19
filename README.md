@@ -12,14 +12,7 @@ I specialize in mobile and web development using Flutter, Dart, Laravel, and Nex
 📈 Always learning, always building — open to exciting opportunities in mobile and backend development.
 
 ---
-## 📊 **Statics for Nerds**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiRuizz&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRuizz&layout=compact&langs_count=4&theme=radical"/>
-</div>
-
----
 ## 🛠️ **Stacks**
 
 ### **Mobile Development**
