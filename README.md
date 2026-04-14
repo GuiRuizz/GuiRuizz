@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello everyone! </h1>
 
-<h3 align="center">🚀 Software Engineer | 2+ years coding: Flutter | Laravel | PHP | GoLang </h3>
+<h3 align="center">🚀 Software Engineer | 2+ years coding: Flutter | Laravel | React | GoLang | Node </h3>
 
 ## 💬 **About Me**
 
