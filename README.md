@@ -13,30 +13,38 @@ I specialize in mobile and web development using Flutter, Dart, Laravel, and Nex
 
 ---
 
-## 🛠️ **Stacks**
+## 🛠️ Stacks
 
-### **Mobile Development**
-<div align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </div>
+<div align="center">
 
-### **Web Development**
-<div align="left"> <img src="https://skillicons.dev/icons?i=php,laravel,nextjs" /> </div>
+| 📱 Mobile | 🌐 Web | ⚙️ Backend |
+|------------|---------|-------------|
+| <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> | <img src="https://skillicons.dev/icons?i=php,laravel,nextjs" /> | <img src="https://skillicons.dev/icons?i=go,postman,nodejs" /> |
 
-### **Backend & APIs**
-<div align="left"> <img src="https://skillicons.dev/icons?i=go,postman,nodejs" /> </div>
+| 🗄️ Database | ☁️ DevOps | 🛠 Tools |
+|--------------|------------|-----------|
+| <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" /> | <img src="https://skillicons.dev/icons?i=docker,github,git" /> | <img src="https://skillicons.dev/icons?i=vscode,figma,linux" /> |
 
-### **Databases**
-<div align="left"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" /> </div>
-
-### **Cloud & DevOps**
-<div align="left"> <img src="https://skillicons.dev/icons?i=docker,github,git" /> </div>
-
-### **Tools & Practices**
-<div align="left"> <img src="https://skillicons.dev/icons?i=vscode,figma,linux" /> </div>
-
-
-**Methodologies & Principles:** Clean Architecture • DDD • SOLID • MVC • MVVM • RESTful APIs • CI/CD • Agile • UX/UI Design
+</div>
 
 ---
+
+## 📚 Methodologies & Principles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX/UI%20Design-black?style=for-the-badge" />
+</p>
+
+---
+
 ## 📫 **Contact Me**
 
 <div align="center"> </br>
